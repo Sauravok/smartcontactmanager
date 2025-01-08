@@ -22,5 +22,6 @@ public class Message {
 		this.type = type;
 	}
 	//abcdk
+	//hello
 
 }
